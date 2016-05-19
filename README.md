@@ -1,2 +1,2 @@
 # Log
-file log
+file log(JDK1.8)
